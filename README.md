@@ -1,4 +1,5 @@
-Skeleton solver code
+Skeleton solver code.
+Compile with "g++ -Wall -std=c++11 -O2 skeleton_solver.cpp"
 
 Input is a m x n binary matrix where m, n <= 8. Specify m and n first in that order. Then the matrix. An example is below.
 
